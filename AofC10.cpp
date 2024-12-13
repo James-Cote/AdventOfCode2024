@@ -1,3 +1,10 @@
+/*
+
+Advent of Code day 10
+- James Cote
+
+*/
+
 #include <bits\stdc++.h>
 
 using namespace std;
